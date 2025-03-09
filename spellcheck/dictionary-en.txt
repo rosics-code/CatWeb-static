@@ -2717,6 +2717,7 @@ while
 whisper
 white
 whole
+wiki
 whom
 whose
 wide
