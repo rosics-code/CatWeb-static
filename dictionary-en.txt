@@ -35,7 +35,6 @@ actor
 actress
 actual
 actually
-ad
 adapt
 add
 addition
@@ -66,7 +65,6 @@ affect
 afford
 afraid
 African
-African-American
 after
 afternoon
 again
@@ -80,7 +78,6 @@ ago
 agree
 agreement
 agricultural
-ah
 ahead
 aid
 aide
@@ -168,7 +165,6 @@ art
 article
 artist
 artistic
-as
 Asian
 aside
 ask
@@ -189,7 +185,6 @@ association
 assume
 assumption
 assure
-at
 athlete
 athletic
 atmosphere
@@ -241,7 +236,6 @@ basketball
 bathroom
 battery
 battle
-be
 beach
 bean
 bear
@@ -357,9 +351,7 @@ but
 butter
 button
 buy
-buyer
-by
-cabin
+buyercabin
 cabinet
 cable
 cake
@@ -405,7 +397,6 @@ cell
 center
 central
 century
-CEO
 ceremony
 certain
 certainly
@@ -793,8 +784,6 @@ diversity
 divide
 division
 divorce
-DNA
-do
 doctor
 document
 dog
@@ -1173,7 +1162,6 @@ glance
 glass
 global
 glove
-go
 goal
 God
 gold
@@ -1228,7 +1216,6 @@ hardly
 hat
 hate
 have
-he
 head
 headline
 headquarters
@@ -1254,7 +1241,6 @@ heritage
 hero
 herself
 hey
-hi
 hide
 high
 highlight
@@ -1310,8 +1296,6 @@ ideal
 identification
 identify
 identity
-ie
-if
 ignore
 ill
 illegal
@@ -1550,7 +1534,6 @@ locate
 location
 lock
 long
-long-term
 look
 loose
 lose
@@ -1610,7 +1593,6 @@ matter
 may
 maybe
 mayor
-me
 meal
 mean
 meaning
@@ -1689,9 +1671,6 @@ mouth
 move
 movement
 movie
-Mr
-Mrs
-Ms
 much
 multiple
 murder
@@ -1951,7 +1930,6 @@ pleasure
 plenty
 plot
 plus
-PM
 pocket
 poem
 poet
@@ -2356,8 +2334,6 @@ shall
 shape
 share
 sharp
-she
-sheet
 shelf
 shell
 shelter
@@ -2656,12 +2632,8 @@ than
 thank
 thanks
 that
-the
 theater
 their
-them
-theme
-themselves
 then
 theory
 therapy
@@ -2699,8 +2671,6 @@ tire
 tired
 tissue
 title
-to
-tobacco
 today
 toe
 together
@@ -2797,7 +2767,6 @@ unlike
 unlikely
 until
 unusual
-up
 upon
 upper
 urban
