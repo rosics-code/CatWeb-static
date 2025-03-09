@@ -1,4 +1,3 @@
-a
 abandon
 ability
 able
@@ -85,14 +84,12 @@ ah
 ahead
 aid
 aide
-AIDS
 aim
 air
 aircraft
 airline
 airport
 album
-alcohol
 alive
 all
 alliance
@@ -107,7 +104,6 @@ alter
 alternative
 although
 always
-AM
 amazing
 American
 among
@@ -256,7 +252,6 @@ because
 become
 bed
 bedroom
-beer
 before
 begin
 beginning
@@ -876,7 +871,6 @@ eliminate
 elite
 else
 elsewhere
-e-mail
 embrace
 emerge
 emergency
@@ -1310,7 +1304,6 @@ hunting
 hurt
 husband
 hypothesis
-I
 ice
 idea
 ideal
@@ -1344,7 +1337,6 @@ impression
 impressive
 improve
 improvement
-in
 incentive
 incident
 include
@@ -1431,7 +1423,6 @@ Islamic
 island
 Israeli
 issue
-it
 Italian
 item
 its
@@ -1668,7 +1659,6 @@ mission
 mistake
 mix
 mixture
-mm-hmm
 mode
 model
 moderate
@@ -1713,7 +1703,6 @@ musician
 Muslim
 must
 mutual
-my
 myself
 mystery
 myth
@@ -1754,7 +1743,6 @@ next
 nice
 night
 nine
-no
 nobody
 nod
 noise
@@ -1775,7 +1763,6 @@ notion
 novel
 now
 nowhere
-n't
 nuclear
 number
 numerous
@@ -1798,7 +1785,6 @@ occur
 ocean
 odd
 odds
-of
 off
 offense
 offensive
@@ -1807,13 +1793,10 @@ office
 officer
 official
 often
-oh
 oil
-ok
 okay
 old
 Olympic
-on
 once
 one
 ongoing
@@ -1834,7 +1817,6 @@ oppose
 opposite
 opposition
 option
-or
 orange
 order
 ordinary
@@ -1904,7 +1886,6 @@ pattern
 pause
 pay
 payment
-PC
 peace
 peak
 peer
@@ -2021,8 +2002,6 @@ precisely
 predict
 prefer
 preference
-pregnancy
-pregnant
 preparation
 prepare
 prescription
@@ -2370,8 +2349,6 @@ settlement
 seven
 several
 severe
-sex
-sexual
 shade
 shadow
 shake
@@ -2388,8 +2365,7 @@ shift
 shine
 ship
 shirt
-shit
-shock
+shockf
 shoe
 shoot
 shooting
@@ -2456,8 +2432,6 @@ smoke
 smooth
 snap
 snow
-so
-so-called
 soccer
 social
 society
@@ -2590,7 +2564,6 @@ sufficient
 sugar
 suggest
 suggestion
-suicide
 suit
 summer
 summit
@@ -2792,7 +2765,6 @@ try
 tube
 tunnel
 turn
-TV
 twelve
 twenty
 twice
@@ -2830,7 +2802,6 @@ upon
 upper
 urban
 urge
-us
 use
 used
 useful
@@ -2881,7 +2852,6 @@ volume
 volunteer
 vote
 voter
-vs
 vulnerable
 wage
 wait
@@ -2900,7 +2870,6 @@ watch
 water
 wave
 way
-we
 weak
 wealth
 wealthy
