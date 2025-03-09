@@ -2,6 +2,7 @@ abandon
 ability
 able
 abortion
+alpha
 about
 above
 abroad
@@ -1654,6 +1655,7 @@ objective
 obligation
 observation
 observe
+ohio
 observer
 obtain
 obvious
@@ -2157,6 +2159,7 @@ scholarship
 school
 science
 scientific
+sigma
 scientist
 scope
 score
