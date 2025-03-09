@@ -78,6 +78,7 @@ ahead
 aide
 air
 airbag
+main
 aircraft
 airline
 airport
@@ -561,6 +562,7 @@ convert
 conviction
 convince
 cook
+chat
 cookie
 cooking
 cool
@@ -2723,7 +2725,6 @@ while
 whisper
 white
 whole
-wiki
 whom
 whose
 wide
