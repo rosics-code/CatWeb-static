@@ -76,7 +76,6 @@ agreement
 agricultural
 ahead
 aide
-air
 aircraft
 airline
 airport
@@ -561,6 +560,7 @@ conviction
 convince
 cook
 cookie
+chat
 cooking
 cool
 cooperation
