@@ -750,6 +750,7 @@ division
 divorce
 doctor
 document
+domain
 domestic
 dominant
 dominate
@@ -2726,6 +2727,7 @@ wide
 widely
 widespread
 wife
+wiki
 wild
 will
 willing
