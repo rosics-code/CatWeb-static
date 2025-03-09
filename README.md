@@ -1,4 +1,4 @@
-# Powers CatWeb's upcoming search autocorrect feature
+# Powers CatWeb's upcoming search spellcheck feature
 
 **Words should adhere to the CatWeb Rules.**
 
