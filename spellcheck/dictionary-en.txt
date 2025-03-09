@@ -291,7 +291,6 @@ bottle
 bottom
 boundary
 bowl
-boy
 boyfriend
 brain
 branch
@@ -777,7 +776,6 @@ drive
 driver
 drop
 drug
-due
 during
 dust
 duty
@@ -1142,7 +1140,6 @@ guest
 guide
 guideline
 guilty
-guy
 habit
 habitat
 hair
@@ -1347,7 +1344,6 @@ itself
 jacket
 jail
 Japanese
-Jew
 Jewish
 join
 joint
@@ -1722,7 +1718,6 @@ over
 overall
 overcome
 overlook
-own
 owner
 pace
 pack
@@ -2128,7 +2123,6 @@ roughly
 round
 route
 routine
-rub
 rule
 running
 rural
