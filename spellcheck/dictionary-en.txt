@@ -76,9 +76,6 @@ agreement
 agricultural
 ahead
 aide
-air
-airbag
-main
 aircraft
 airline
 airport
@@ -259,8 +256,7 @@ bill
 billion
 bind
 biological
-bird
-birth
+birdse
 birthday
 bite
 black
@@ -2112,7 +2108,6 @@ road
 rock
 role
 roll
-romantic
 roof
 room
 root
