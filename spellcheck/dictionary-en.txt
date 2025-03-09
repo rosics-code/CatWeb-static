@@ -1,7 +1,6 @@
 abandon
 ability
 able
-abortion
 about
 above
 abroad
@@ -9,7 +8,6 @@ absence
 absolute
 absolutely
 absorb
-abuse
 academic
 accept
 access
@@ -1097,7 +1095,6 @@ giant
 gift
 gifted
 girl
-girlfriend
 give
 given
 glad
@@ -1230,7 +1227,6 @@ identification
 identify
 identity
 ignore
-illegal
 illness
 illustrate
 image
@@ -2436,7 +2432,6 @@ survive
 survivor
 suspect
 sustain
-swear
 sweep
 sweet
 swim
@@ -2486,9 +2481,6 @@ term
 terms
 terrible
 territory
-terror
-terrorism
-terrorist
 test
 testify
 testimony
