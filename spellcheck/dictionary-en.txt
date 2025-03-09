@@ -1147,8 +1147,6 @@ habit
 habitat
 hair
 half
-hi
-hello
 hall
 hand
 handful
