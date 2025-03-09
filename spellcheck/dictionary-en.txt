@@ -1,15 +1,12 @@
 abandon
 ability
 able
-abortion
 about
-above
 abroad
 absence
 absolute
 absolutely
 absorb
-abuse
 academic
 accept
 access
@@ -77,8 +74,6 @@ agreement
 agricultural
 ahead
 aide
-air
-airbag
 main
 aircraft
 airline
@@ -263,7 +258,6 @@ billion
 bind
 biological
 bird
-birth
 birthday
 bite
 black
@@ -1104,7 +1098,6 @@ giant
 gift
 gifted
 girl
-girlfriend
 give
 given
 glad
@@ -1237,7 +1230,6 @@ identification
 identify
 identity
 ignore
-illegal
 illness
 illustrate
 image
@@ -2121,7 +2113,6 @@ rock
 roify
 role
 roll
-romantic
 roof
 room
 root
@@ -2446,7 +2437,6 @@ survive
 survivor
 suspect
 sustain
-swear
 sweep
 sweet
 swim
@@ -2496,9 +2486,6 @@ term
 terms
 terrible
 territory
-terror
-terrorism
-terrorist
 test
 testify
 testimony
