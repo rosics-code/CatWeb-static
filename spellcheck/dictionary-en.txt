@@ -2777,5 +2777,3 @@ yourself
 youth
 zone
 zebra
-zoo
-zip
