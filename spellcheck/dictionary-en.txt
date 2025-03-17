@@ -1,3 +1,9 @@
+6LACK
+2Pac
+50Cent
+42Dugg
+24kGoldn
+21Savage
 abandon
 ability
 able
@@ -238,6 +244,7 @@ Bible
 bike
 bill
 billion
+BigSean
 bind
 biological
 bird
@@ -298,6 +305,7 @@ broken
 brother
 brown
 brush
+Blxst
 buck
 budget
 build
@@ -396,7 +404,6 @@ Christian
 Christmas
 church
 Chessboard
-cigarette
 circle
 circumstance
 cite
@@ -746,7 +753,7 @@ draft
 drag
 drama
 dramatic
-dramatically
+Drake
 draw
 drawing
 dream
@@ -793,6 +800,7 @@ elderly
 elect
 election
 electric
+Electricdog
 electricity
 electronic
 element
@@ -902,6 +910,7 @@ expert
 explain
 explanation
 explode
+Eminem
 explore
 explosion
 expose
@@ -1054,6 +1063,7 @@ gain
 galaxy
 gallery
 game
+GucciMane
 gang
 garage
 garden
@@ -1119,6 +1129,7 @@ guess
 guest
 guide
 guideline
+Gunna
 guilty
 habit
 habitat
@@ -1197,6 +1208,7 @@ however
 huge
 human
 humandog
+DogWeb
 humandog333
 humor
 hundred
@@ -1331,6 +1343,7 @@ join
 joint
 joke
 journal
+JuiceWRLD
 journalist
 journey
 judge
@@ -1342,8 +1355,12 @@ jury
 just
 justice
 justify
+JAYZ
 keep
 kick
+KanyeWest
+KendrickLamar
+KevinGates
 kill
 killer
 killing
@@ -1352,6 +1369,7 @@ king
 kiss
 kitchen
 knee
+KYLE
 knife
 knock
 know
@@ -1425,6 +1443,13 @@ literally
 literary
 literature
 little
+LilWayne
+LilDurk
+LilUziVert
+LilTecca
+LilMosey
+LilBaby
+LilTjay
 live
 livechat
 living
@@ -1454,6 +1479,8 @@ machine
 magazine
 mail
 main
+Miguel
+MetroBoomin
 mainly
 maintain
 maintenance
@@ -1479,6 +1506,7 @@ marketing
 marriage
 married
 marry
+MoneybaggYo
 mask
 mass
 massive
@@ -1548,6 +1576,7 @@ monitor
 month
 mood
 moon
+Migos
 moral
 more
 moreover
@@ -1580,7 +1609,7 @@ mutual
 myself
 mystery
 myth
-naked
+NAV
 name
 narrative
 narrow
@@ -1848,6 +1877,8 @@ powerful
 practical
 practice
 pray
+PostMalone
+premium
 prayer
 precisely
 predict
@@ -1901,6 +1932,7 @@ profit
 program
 progress
 project
+PoloG
 prominent
 promise
 promote
@@ -2035,6 +2067,7 @@ remaining
 remarkable
 remember
 remind
+Rihanna
 remote
 remove
 repeat
@@ -2064,6 +2097,8 @@ resort
 resource
 respect
 respond
+RodWave
+RoddyRichh
 respondent
 response
 responsibility
@@ -2117,6 +2152,8 @@ safe
 safety
 sake
 salad
+Saladnet
+Saladtxt
 salary
 sale
 sales
@@ -2151,7 +2188,7 @@ scream
 screen
 script
 search
-searchgo
+searchGo
 season
 seat
 second
@@ -2258,6 +2295,7 @@ slightly
 slip
 slow
 slowly
+SeanPaul
 small
 smart
 smell
@@ -2447,6 +2485,9 @@ taste
 taxpayer
 teach
 teacher
+TrippieRedd
+TwentyOnePilots
+Tyga
 terror
 teaching
 team
@@ -2487,6 +2528,7 @@ then
 theory
 therapy
 there
+TonesAndI
 therefore
 these
 they
@@ -2513,6 +2555,7 @@ thus
 ticket
 tight
 Tobias
+TaylorSwift
 time
 tiny
 tire
@@ -2553,12 +2596,12 @@ train
 training
 transfer
 transform
-transformation
 transition
 translate
 transportation
 travel
 treat
+TheWeeknd
 treatment
 treaty
 tree
