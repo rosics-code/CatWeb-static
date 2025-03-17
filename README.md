@@ -8,3 +8,4 @@ Include trending terms, popular words, popular websites, preferably specific to 
 
 ## Currently Supported Locales
 - **en**: English
+- **es**: Spanish
