@@ -47,6 +47,7 @@ advanced
 advantage
 adventure
 advertising
+advert
 advice
 advise
 adviser
@@ -241,6 +242,7 @@ bind
 biological
 bird
 birthday
+bookmarks
 bite
 black
 blade
@@ -393,6 +395,7 @@ choose
 Christian
 Christmas
 church
+Chessboard
 cigarette
 circle
 circumstance
@@ -444,7 +447,7 @@ column
 combination
 combine
 come
-catweb
+CatWeb
 comedy
 comfort
 comfortable
@@ -680,6 +683,8 @@ dialogue
 diet
 differ
 difference
+donation
+donating
 different
 differently
 difficult
@@ -1154,6 +1159,7 @@ here
 heritage
 hero
 herself
+HumanCat222
 hide
 high
 highlight
@@ -1373,6 +1379,7 @@ lawsuit
 lawyer
 layer
 lead
+L4nd3n
 leader
 leadership
 leading
@@ -1632,6 +1639,7 @@ objective
 obligation
 observation
 observe
+ohio
 observer
 obtain
 obvious
@@ -2134,6 +2142,7 @@ scholarship
 school
 science
 scientific
+sigma
 scientist
 scope
 score
@@ -2437,6 +2446,7 @@ taste
 taxpayer
 teach
 teacher
+terror
 teaching
 team
 tear
@@ -2501,6 +2511,7 @@ throw
 thus
 ticket
 tight
+Tobias
 time
 tiny
 tire
